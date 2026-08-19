@@ -1,0 +1,9 @@
+gitRepo:
+  gitProvider: 
+  path: /gcptest-2
+  DockerUserName: tylertravismya
+  DockerPassword: 69Cutlass
+  DockerOrgName: theharbormaster
+  DockerRepo: banking-on-spring-boot-3-5
+  DockerHost: docker.io
+  DockerTag: latest
